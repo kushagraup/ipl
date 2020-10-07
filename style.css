@@ -288,6 +288,7 @@ input, button {
 }
 
 input {
+  color : #484283;	
   width: 15em;
   background-color: #fff;
   border-right: 0 none;
@@ -295,7 +296,7 @@ input {
 }
 
 button {
-  color : #484283;	
+  	
   position: relative;
   background-color: #fff;
   border-radius: 0 3px 3px 0;
