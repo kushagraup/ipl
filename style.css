@@ -288,9 +288,9 @@ input, button {
 }
 
 input {
-  color : #484283;	
+  color : #fff;	
   width: 15em;
-  background-color: #840037;
+  
   border-right: 0 none;
   border-radius: 3px 0 0 3px;
 }
